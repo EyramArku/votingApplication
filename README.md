@@ -98,6 +98,10 @@ Possible features to add/improve within the app.
 - [ ] **Workflow improvements**—overall workflow improvements (eg. option to add candidates within the election setup page), with overall GUI improvements.
 - [ ] **Multiple election instance**—ability to create multiple election instances without having to re-deploy the smart contract.
 
+![adminpage](https://github.com/EyramArku/votingApplication/assets/108632076/fe5aa283-001d-4e3f-9b60-82cc774683d7)
+![b](https://github.com/EyramArku/votingApplication/assets/108632076/f303a08d-72bb-4c36-975e-54d5e537e2a9)
+![e](https://github.com/EyramArku/votingApplication/assets/108632076/0949a006-9e36-457d-ab95-3677c82a7863)
+![Screenshot 2023-07-24 211550](https://github.com/EyramArku/votingApplication/assets/108632076/e8b7cd63-3420-47f4-87b8-6034597ccccc)
 
 
 
