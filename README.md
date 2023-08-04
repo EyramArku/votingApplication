@@ -98,12 +98,6 @@ Possible features to add/improve within the app.
 - [ ] **Workflow improvements**—overall workflow improvements (eg. option to add candidates within the election setup page), with overall GUI improvements.
 - [ ] **Multiple election instance**—ability to create multiple election instances without having to re-deploy the smart contract.
 
-## Join us on Discord
 
-[![Join our Discord server!](https://invidget.switchblade.xyz/3jmfdNsHWr)](https://discord.gg/3jmfdNsHWr)
 
-[discord.gg/3jmfdNsHWr](https://discord.gg/3jmfdNsHWr "Join us on Discord!")
 
----
-
-Made with ❤️ by [Bibek Aryal](https://bibeka.com.np/).
